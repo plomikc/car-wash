@@ -1,0 +1,17 @@
+{
+  "name": "andrews-car-wash",
+  "version": "1.0.0",
+  "description": "Andrew's Car Wash booking system",
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Development server - open index.html in browser'",
+    "build": "echo 'No build step required for static site'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "keywords": ["car-wash", "booking"],
+  "author": "",
+  "license": "ISC"
+}
